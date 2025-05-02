@@ -1,0 +1,22 @@
+John Doe
+Email: john.doe@example.com
+Phone: (123) 456-7890
+Location: New York, NY
+
+Objective:
+To leverage my 5+ years of experience as a Software Engineer in a dynamic company that values innovation and teamwork.
+
+Skills:
+- Programming Languages: Python, Java, C++
+- Web Development: HTML, CSS, JavaScript, React
+- Databases: MySQL, MongoDB
+- Version Control: Git, GitHub
+
+Experience:
+Software Engineer | Tech Solutions Inc. | New York, NY | Jan 2020 - Present
+- Developed and maintained web applications using Python and JavaScript.
+- Collaborated with cross-functional teams to improve software performance and scalability.
+- Led the migration of legacy systems to modern cloud-based architecture.
+
+Education:
+B.S. in Computer Science | University of XYZ | Graduated 2019
